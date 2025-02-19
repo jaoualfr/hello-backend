@@ -1,0 +1,17 @@
+E:\ngnet-main\Backend\obj\Docker\publish\Backend.exe
+E:\ngnet-main\Backend\obj\Docker\publish\appsettings.Development.json
+E:\ngnet-main\Backend\obj\Docker\publish\appsettings.json
+E:\ngnet-main\Backend\obj\Docker\publish\Backend.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Backend.runtimeconfig.json
+E:\ngnet-main\Backend\obj\Docker\publish\Backend.pdb
+E:\ngnet-main\Backend\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Microsoft.EntityFrameworkCore.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Microsoft.OpenApi.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Npgsql.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ngnet-main\Backend\obj\Docker\publish\Backend.deps.json
